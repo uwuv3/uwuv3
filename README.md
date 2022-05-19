@@ -2,13 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uwuv2&label=Profile%20views&color=0e75b6&style=flat" alt="hxr404" /> </p>
 
-This profile page is still a WIP so please be lenient ;)
-
-
-
-
-</p>
-
 
 ## some widgets that apparently everyone has on their GitHub Profile
 
