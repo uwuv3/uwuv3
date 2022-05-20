@@ -4,6 +4,7 @@
 <h2>Sosyal medya</h2>
 
 [![Discord Badge](https://img.shields.io/badge/Discord%20-7289DA.svg?&amp;style=for-the-badge&amp;logo=discord&amp;logoColor=white)](https://discord.com/users/806259084483100703)
+[![Discord Badge](https://img.shields.io/badge/Github%20-171515.svg?&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/uwuv3)
 
 <h2><strong>Stats</strong></h2>
 
