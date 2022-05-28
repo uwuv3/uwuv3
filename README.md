@@ -28,8 +28,7 @@
 
 <h2><strong>Stats</strong></h2>
 
-<a href="https://github.com/anuraghazra/github-readme-stats"  target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=uwuv3&theme=dark&show_icons=true&count_private=true"></img></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"  target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=uwuv3&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"></img></a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uwuv3&layout=compact"></img></a>
+<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uwuv3&theme=react&hide_border=true&bg_color=0D1117"></img></a>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank"><img src="https://github-profile-trophy.vercel.app/?username=uwuv3"></img></a>
