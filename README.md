@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba ,ben uwuv3 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></img></h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F70000&lines=Merhaba+%2Cben+uwuv3+%F0%9F%91%8B)](https://git.io/typing-svg)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uwuv3&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
 <h2>Sosyal medya</h2>
