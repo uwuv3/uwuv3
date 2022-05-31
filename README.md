@@ -31,10 +31,4 @@
 <a href="https://github.com/anuraghazra/github-readme-stats"  target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=uwuv3&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"></img></a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uwuv3&theme=react&hide_border=true&bg_color=0D1117"></img></a>
-<p>
-<strong> _   _          _   _       _____ </strong>
-<strong>| | | |_      _| | | |_   _|___ / </strong>
-<strong>| | | \ \ /\ / / | | \ \ / / |_ \ </strong>
-<strong>| |_| |\ V  V /| |_| |\ V / ___) |</strong>
-<strong> \___/  \_/\_/  \___/  \_/ |____/ </strong>
-</p>
+
