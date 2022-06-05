@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&multiline=true&lines=Hello%2C+I'm+uwuv3+%F0%9F%91%8B;010010000110010101101100011011000110111100101100001000000100100100100111011011010010000001110101011101110111010101110110001100110010000011110000100111111001000110001011;f5zSfFYpW772ko5VNOT0kvVyI6DoxqrErRpzecldDZs%3D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&lines=Hello%2C+I'm+uwuv3+%F0%9F%91%8B;010010000110010101101100011011000110111100101100001000000100100100100111011011010010000001110101011101110111010101110110001100110010000011110000100111111001000110001011;f5zSfFYpW772ko5VNOT0kvVyI6DoxqrErRpzecldDZs%3D)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uwuv3&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 <a><strong>About me</strong></a>
