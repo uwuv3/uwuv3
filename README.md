@@ -1,8 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F70000&lines=Merhaba+%2Cben+uwuv3+%F0%9F%91%8B)](https://git.io/typing-svg)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=uwuv3&label=Profile%20views&color=0e75b6&style=flat" /> </p>
-<a><strong> Hakkımda </strong></a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&multiline=true&lines=Hello%2C+I'm+uwuv3+%F0%9F%91%8B;010010000110010101101100011011000110111100101100001000000100100100100111011011010010000001110101011101110111010101110110001100110010000011110000100111111001000110001011;f5zSfFYpW772ko5VNOT0kvVyI6DoxqrErRpzecldDZs%3D)](https://git.io/typing-svg)
 
-<details><summary>Kullandığım programlar</summary>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=uwuv3&label=Profile%20views&color=0e75b6&style=flat" /> </p>
+<a><strong>About me</strong></a>
+
+<details><summary>Programs I use</summary>
 <p>
 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="." width="16" height="16"/> [Visual Studio Code](https://code.visualstudio.com/)
@@ -11,7 +12,7 @@
 
 </p>
 </details>
-<details><summary>Kullandığım os(cihazlar)</summary>
+<details><summary>os(devices)</summary>
 <p>
 
 - <img src="https://cdn.discordapp.com/emojis/922853080393994261.png" alt="." width="16" height="16"/> [Ubuntu (Windows Subsystem for Linux)](https://ubuntu.com/wsl)
@@ -19,7 +20,7 @@
 
 </p>
 </details>
-<details><summary>Sosyal Medya</summary>
+<details><summary>Social media</summary>
 
 - <a href="https://discord.com/users/806259084483100703"  target="_blank"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&amp;style=for-the-badge&amp;logo=discord&amp;logoColor=white"></img></a>
 - <a href="https://github.com/uwuv3"  target="_blank"><img src="https://img.shields.io/badge/Github%20-171515.svg?&amp;style=for-the-badge&amp;logo=github&amp;logoColor=black"></img></a>
