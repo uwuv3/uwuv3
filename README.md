@@ -7,15 +7,10 @@
 <p>
 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="." width="16" height="16"/> [Visual Studio Code](https://code.visualstudio.com/)
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Notepad%2B%2B_Logo.svg/2367px-Notepad%2B%2B_Logo.svg.png" alt="." width="16" height="16"/> [Notepad++](https://notepad-plus-plus.org/)
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Gnu-nano.svg/1200px-Gnu-nano.svg.png" alt="." width="16" height="16"/> [GNU Nano](https://www.nano-editor.org/)
-
 </p>
 </details>
 <details><summary>os(devices)</summary>
 <p>
-
-- <img src="https://cdn.discordapp.com/emojis/922853080393994261.png" alt="." width="16" height="16"/> [Ubuntu (Windows Subsystem for Linux)](https://ubuntu.com/wsl)
 - <img src="https://cdn.discordapp.com/emojis/922822128724762634.png" alt="." width="16" height="16"/> [Windows (10/11)](https://www.microsoft.com/vi-vn/windows/windows-11?r=1)
 
 </p>
