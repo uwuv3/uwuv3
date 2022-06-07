@@ -5,14 +5,14 @@
 
 <details><summary>Programs I use</summary>
 <p>
-
+  
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="." width="16" height="16"/> [Visual Studio Code](https://code.visualstudio.com/)
 </p>
 </details>
 <details><summary>os(devices)</summary>
 <p>
-- <img src="https://cdn.discordapp.com/emojis/922822128724762634.png" alt="." width="16" height="16"/> [Windows (10/11)](https://www.microsoft.com/vi-vn/windows/windows-11?r=1)
-
+  
+- <img src="https://cdn.discordapp.com/emojis/983717996549791815.webp" alt="." width="16" height="16"/> [Windows (11)](https://www.microsoft.com/vi-vn/windows/windows-11?r=1)
 </p>
 </details>
 <details><summary>Social media</summary>
