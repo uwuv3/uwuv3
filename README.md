@@ -7,14 +7,10 @@
 <p>
   
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="." width="16" height="16"/> [Visual Studio Code](https://code.visualstudio.com/)
+- <img src="http://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="." width="16" height="16"/> [Git](https://git-scm.com/)
 </p>
 </details>
-<details><summary>os(devices)</summary>
-<p>
-  
-- <img src="https://cdn.discordapp.com/emojis/983717996549791815.webp" alt="." width="16" height="16"/> [Windows (11)](https://www.microsoft.com/vi-vn/windows/windows-11?r=1)
-</p>
-</details>
+
 <details><summary>Social media</summary>
 
 - <a href="https://discord.com/users/806259084483100703"  target="_blank"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&amp;style=for-the-badge&amp;logo=discord&amp;logoColor=white"></img></a>
