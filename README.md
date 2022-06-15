@@ -24,7 +24,7 @@
 
 <h2><strong>Stats</strong></h2>
 
-<a href="https://github.com/anuraghazra/github-readme-stats"  target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=uwuv3&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"></img></a>
+<img  width="50%" src="https://github-readme-stats.vercel.app/api?username=uwuv3&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"></img>
 
-<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uwuv3&theme=react&hide_border=true&bg_color=0D1117"></img></a>
-
+<img  width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uwuv3&theme=react&hide_border=true&bg_color=0D1117"></img>
+<img width="50%" src="https://activity-graph.herokuapp.com/graph?username=uwuv3&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"></div>
