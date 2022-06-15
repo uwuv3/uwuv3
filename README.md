@@ -9,6 +9,7 @@
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="." width="16" height="16"/> [Visual Studio Code](https://code.visualstudio.com/)
 - <img src="http://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="." width="16" height="16"/> [Git](https://git-scm.com/)
 - <img src="https://docs.cybersiara.com/images/Nodejs.png" alt="." width="16" height="16"/> [NodeJS](https://nodejs.org/)
+- <img src="https://i.ytimg.com/vi/SET-G-BoYF8/hqdefault.jpg" alt="." width="16" height="16"/> [Notepad++](https://notepad-plus-plus.org/)
 </p>
 </details>
 
