@@ -6,18 +6,19 @@
 <details><summary>Programs I use</summary>
 <p>
   
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="." width="16" height="16"/> [Visual Studio Code](https://code.visualstudio.com/)
-- <img src="http://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="." width="16" height="16"/> [Git](https://git-scm.com/)
-- <img src="https://docs.cybersiara.com/images/Nodejs.png" alt="." width="16" height="16"/> [NodeJS](https://nodejs.org/)
-- <img src="https://i.ytimg.com/vi/SET-G-BoYF8/hqdefault.jpg" alt="." width="16" height="16"/> [Notepad++](https://notepad-plus-plus.org/)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="." width="16" height="16"/> [Visual Studio Code](https://code.visualstudio.com/)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="." width="16" height="16"/> [Git](https://git-scm.com/)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="." width="16" height="16"/> [NodeJS](https://nodejs.org/)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Notepad%2B%2B_Logo.svg" alt="." width="16" height="16"/> [Notepad++](https://notepad-plus-plus.org/)
 </p>
 </details>
 
 <details><summary>Social media</summary>
 
--  <img src="https://png2.cleanpng.com/sh/4ce17c3c9ca79d0c4b056a10edee519e/L0KzQYm3V8E3N5d1g5H0aYP2gLBuTfRqe5R0itY2Y3BwgMb7hgIucZR0huU2bHBqf376jfltbaoyfNdsYXywccfolPFzNZVui9V4cnSwRbO7g8g3bJM9fKs9YkixSIiBVcE4P2E2TaU6N0S0SYK8Vcc6QV91htk=/kisspng-discord-computer-icons-logo-smiley-decal-avatar-discord-5b4c86db8d94b8.8785177015317419155799.png" alt="." width="16" height="16"/><a href="https://discord.com/users/984439714851479593"  target="_blank">Discord</a>
-- <img src="https://cdn-icons-png.flaticon.com/512/2111/2111612.png" alt="." width="16" height="16"/><a href="https://github.com/uwuv3"  target="_blank">Github</img></a>
-
+- <a href="https://discord.com/users/984439714851479593"  target="_blank"><img src="https://upload.wikimedia.org/wikipedia/tr/b/bd/Discord_logo_%282021%29.png" alt="." width="%50" height="25"/></a>
+- <a href="https://github.com/uwuv3"  target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Font_Awesome_5_brands_github.svg" alt="." width="%50" height="25"/></img></a>
+- <a href="https://open.spotify.com/user/jirvuq7pbpaxly29r0y7qffwr"  target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Spotify_logo_with_text.svg" alt="." width="%50" height="25"/></img></a>
+- <a href="https://www.reddit.com/user/uwu_v3"  target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Reddit_logo.svg" alt="." width="%50" height="25"/></img></a>
 </details>
 
 <h2><strong>Stats</strong></h2>
