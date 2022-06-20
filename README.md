@@ -10,6 +10,7 @@
 - <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="." width="16" height="16"/> [Git](https://git-scm.com/)
 - <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="." width="16" height="16"/> [NodeJS](https://nodejs.org/)
 - <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Notepad%2B%2B_Logo.svg" alt="." width="16" height="16"/> [Notepad++](https://notepad-plus-plus.org/)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/e/eb/Atom_icon.svg" alt="." width="16" height="16"/> [Atom](https://atom.io/)
 </p>
 </details>
 
