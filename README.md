@@ -1,4 +1,4 @@
-[![Status](https://discord.c99.nl/widget/theme-3/984439714851479593.png]()
+<img width="50%" src=https://discord.c99.nl/widget/theme-3/984439714851479593.png>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uwuv3&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 <a><strong>About me</strong></a>
