@@ -23,4 +23,5 @@
 </details>
 
 <h2><strong>Stats</strong></h2>
-<img width="50%" src="https://activity-graph.herokuapp.com/graph?username=uwuv3&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"></div>
+
+[![uwuv3'nın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=uwuv3)](https://github.com/anuraghazra/github-readme-stats)
