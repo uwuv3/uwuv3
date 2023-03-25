@@ -1,8 +1,8 @@
 <img width="50%" src="https://lanyard.cnrad.dev/api/984439714851479593?theme=light&bg=F4BFC7&borderRadius=15px&animated=true&idleMessage=On%20the%20sky%20there%20is%20an%20angel%20in%20somewhere%20(.%20%E2%9D%9B%20%E1%B4%97%20%E2%9D%9B.)">
-<p>
-<a href="https://top.gg/bot/1086894869110341742><img src="https://top.gg/api/widget/upvotes/1086894869110341742.svg"></a>
-</p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=uwuv3&label=Profile%20views&color=0e75b6&style=flat" /> </p>
+<a href="https://top.gg/bot/1086894869110341742">
+  <img src="https://top.gg/api/widget/1086894869110341742.svg">
+</a>
+<p align="left"> </p>
 <a><strong>About me</strong></a>
 
 <details><summary>Programs I use</summary>
