@@ -1,7 +1,8 @@
 <img width="50%" src="https://lanyard.cnrad.dev/api/984439714851479593?theme=light&bg=F4BFC7&borderRadius=15px&animated=true&idleMessage=On%20the%20sky%20there%20is%20an%20angel%20in%20somewhere%20(.%20%E2%9D%9B%20%E1%B4%97%20%E2%9D%9B.)">
-<a href="https://top.gg/bot/1086894869110341742">
-  <img src="https://top.gg/api/widget/1086894869110341742.svg">
+<a href="https://top.gg/bot/1089499140381233203">
+  <img src="https://top.gg/api/widget/upvotes/1089499140381233203.svg">
 </a>
+
 <p align="left"> </p>
 <a><strong>About me</strong></a>
 
