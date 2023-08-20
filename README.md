@@ -16,13 +16,6 @@
 </p>
 </details>
 
-<details><summary>Social media</summary>
-
-- <a href="https://discord.com/users/984439714851479593"  target="_blank"><img src="https://upload.wikimedia.org/wikipedia/tr/b/bd/Discord_logo_%282021%29.png" alt="." width="%50" height="25"/></a>
-- <a href="https://github.com/uwuv3"  target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Font_Awesome_5_brands_github.svg" alt="." width="%50" height="25"/></img></a>
-- <a href="https://open.spotify.com/user/jirvuq7pbpaxly29r0y7qffwr"  target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Spotify_logo_with_text.svg" alt="." width="%50" height="25"/></img></a>
-</details>
-
 <h2><strong>Stats</strong></h2>
 
 [![uwuv3'nın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=uwuv3)](https://github.com/anuraghazra/github-readme-stats)
