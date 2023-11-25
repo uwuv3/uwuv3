@@ -1,21 +1,34 @@
-<img width="50%" src="https://lanyard.cnrad.dev/api/1112945015132536943?theme=light&bg=F4BFC7&borderRadius=15px&animated=true&idleMessage=On%20the%20sky%20there%20is%20an%20angel%20in%20somewhere%20(.%20%E2%9D%9B%20%E1%B4%97%20%E2%9D%9B.)">
-<a href="https://top.gg/bot/1089499140381233203">
-  <img src="https://top.gg/api/widget/upvotes/1089499140381233203.svg">
-</a>
+# Merhaba, Benim Adım uwuv3
 
-<p align="left"> </p>
-<a><strong>About me</strong></a>
+## 🚀 Hakkımda
+<div align="center">
 
-<details><summary>Programs I use</summary>
-<p>
+<strong>Merhaba! Ben Deniz. Yazılım geliştirme konusunda tutkulu bir JavaScript geliştiriciyim.</strong>
+
+   [![Node.js](https://skillicons.dev/icons?i=nodejs&theme=dark)](https://nodejs.org/)
+   [![Python](https://skillicons.dev/icons?i=python&theme=dark)](https://www.python.org/)
+   [![HTML](https://skillicons.dev/icons?i=html&theme=dark)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+   [![CSS](https://skillicons.dev/icons?i=css&theme=dark)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+   [![JavaScript](https://skillicons.dev/icons?i=javascript&theme=dark)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+   [![Next.js](https://skillicons.dev/icons?i=nextjs&theme=dark)](https://nextjs.org/)
+   [![Vercel](https://skillicons.dev/icons?i=vercel&theme=dark)](https://vercel.com/)
+</div>
+
+## 📫 İletişim
+<div align="center">
+
+<strong>Benimle iletişime geçmekten çekinmeyin:</strong>
   
-- <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="." width="16" height="16"/> [Visual Studio Code](https://code.visualstudio.com/)
-- <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="." width="16" height="16"/> [Git](https://git-scm.com/)
-- <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="." width="16" height="16"/> [NodeJS](https://nodejs.org/)
-- <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Notepad%2B%2B_Logo.svg" alt="." width="16" height="16"/> [Notepad++](https://notepad-plus-plus.org/)
-</p>
-</details>
+  [![Github](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com/uwuv3)
+  [![Discord](https://skillicons.dev/icons?i=discord&theme=dark)](https://discord.com/users/1112945015132536943)
 
-<h2><strong>Stats</strong></h2>
+</div>
+<br/>
+<br/>
+<br/>
 
-[![uwuv3'nın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=uwuv3)](https://github.com/anuraghazra/github-readme-stats)
+## 🌟 GitHub İstatistikleri
+
+<div width="50%"><img width="80%" src="https://github-readme-stats.vercel.app/api?username=uwuv3&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117">
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=uwuv3&theme=black-ice&hide_border=true&stroke=0000&background=0D1117">
+</div>
