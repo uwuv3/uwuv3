@@ -37,5 +37,5 @@
 ## 🌟 GitHub İstatistikleri
 
 <div width="50%"><img width="80%" src="https://github-readme-stats.vercel.app/api?username=uwuv3&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117">
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=uwuv3&theme=black-ice&hide_border=true&stroke=0000&background=0D1117">
+<img width="80%" src="https://streak-stats.demolab.com/?user=uwuv3&theme=black-ice&hide_border=true&stroke=0000&background=0D1117">
 </div>
