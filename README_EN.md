@@ -24,7 +24,9 @@
 <div align="center">
 
 <strong>Feel free to contact me</strong>
-  [![Discord](https://skillicons.dev/icons?i=discord&theme=dark)](https://discord.com/users/1112945015132536943) (awesomebadname)
+
+  [![Discord](https://skillicons.dev/icons?i=discord&theme=dark)](https://discord.com/users/1112945015132536943)
+  
 
 </div>
 <br/>
